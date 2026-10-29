@@ -2,7 +2,7 @@
 
 Design  link
 
-https://www.figma.com/proto/jKKDpbmsMT9sgzRj3LM3Y7/Untitled?node-id=0-1&t=JVrHr8xgmmXMVpiG-1
+https://www.figma.com/design/jKKDpbmsMT9sgzRj3LM3Y7/Untitled?node-id=0-1&m=dev&t=JVrHr8xgmmXMVpiG-1
 
 Prototype Link
 
